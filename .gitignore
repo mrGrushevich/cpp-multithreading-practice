@@ -1,0 +1,9 @@
+build/
+cmake-build*/
+logs/
+results/
+*.exe
+*.obj
+*.o
+*.pdb
+.vs/
